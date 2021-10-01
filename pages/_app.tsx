@@ -68,6 +68,8 @@ const App: React.FC<AppProps> = ({Component, pageProps}) => {
                     <Text color="gray.500" fontWeight="500">
                       {INFORMATION.description}
                     </Text>
+                     <Text color="gray.500" fontWeight="500">
+                      {INFORMATION.description2}
                   </Stack>
                   <Stack direction="row">
                     {INFORMATION.social.map((social) => (
