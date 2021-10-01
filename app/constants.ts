@@ -3,7 +3,7 @@ export const INFORMATION = {
   banner: "/assets/banner.jpg",
   title: "Bouticke Elefan",
   description: "Venta de Audifonos",
-  description2: "MAYOREO APARTIR DE 3 PIEZAS (PUEDEN SER DIFERENTES MODELOS)"
+  description2: "MAYOREO APARTIR DE 3 PIEZAS (PUEDEN SER DIFERENTES MODELOS)",
   phone: `5213317368634`,
   sheet: `https://docs.google.com/spreadsheets/d/e/2PACX-1vRrlf69ttdWAoQEbzdANVkEc2d5loBwRXgfg2G6jhxRgQ7AHGsuNi2KTL1MuDVHouiR_dUBYb47b4do/pub?output=csv`,
   color: `teal`,
