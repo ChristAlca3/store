@@ -1,10 +1,10 @@
 export const INFORMATION = {
   avatar: "/assets/avatar.jpg",
   banner: "/assets/banner.jpg",
-  title: "URBN Catering",
-  description: "Galardonada pizza estilo New Haven en Palermo SOHO.",
+  title: "Bouticke Elefan",
+  description: "Venta de Audifonos",
   phone: `5213317368634`,
-  sheet: `https://docs.google.com/spreadsheets/d/e/2PACX-1vQG1pOSbGxaJYzlOWF2t7KFyP5wtWo_EDS0crTllQtALvDDZBq7OwxvTDJwM4dmasW7wmNh6KFB443j/pub?output=csv`,
+  sheet: `https://docs.google.com/spreadsheets/d/e/2PACX-1vRrlf69ttdWAoQEbzdANVkEc2d5loBwRXgfg2G6jhxRgQ7AHGsuNi2KTL1MuDVHouiR_dUBYb47b4do/pub?output=csv`,
   color: `teal`,
   social: [
     {
