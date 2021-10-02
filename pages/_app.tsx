@@ -53,9 +53,9 @@ const App: React.FC<AppProps> = ({Component, pageProps}) => {
                 >
                   <Image
                     borderRadius={9999}
-                    height={{base: 24, sm: 32}}
+                    height={{base: 24, sm: 28}}
                     src={INFORMATION.avatar}
-                    width={{base: 24, sm: 32}}
+                    width={{base: 24, sm: 28}}
                   />
                 </Box>
                 <Stack
