@@ -14,7 +14,7 @@ export const INFORMATION = {
     },
     {
       name: "whatsapp",
-      url: `https://wa.me/5213317368634`,
+      url: `https://chat.whatsapp.com/FT4Uw8z3CMbAgrkbWQ135w`,
     },
   ],
 };
