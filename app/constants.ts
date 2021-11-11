@@ -1,8 +1,8 @@
 export const INFORMATION = {
   avatar: "/assets/ELEFANT.jpg",
   banner: "/assets/banner.jpg",
-  title: "Bouticke Elefan",
-  description: "Venta de Audifonos",
+  title: "Bouticke ELELEFANT3",
+  description: "TIENDA DE ROPA",
   description2: "MAYOREO APARTIR DE 3 PIEZAS (PUEDEN SER DIFERENTES MODELOS)",
   phone: `5213317368634`,
   sheet: `https://docs.google.com/spreadsheets/d/e/2PACX-1vRrlf69ttdWAoQEbzdANVkEc2d5loBwRXgfg2G6jhxRgQ7AHGsuNi2KTL1MuDVHouiR_dUBYb47b4do/pub?output=csv`,
@@ -10,7 +10,7 @@ export const INFORMATION = {
   social: [
     {
       name: "instagram",
-      url: `https://instagram.com/goncy.js`,
+      url: `https://www.instagram.com/elelefant3/`,
     },
     {
       name: "whatsapp",
