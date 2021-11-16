@@ -1,5 +1,5 @@
 export const INFORMATION = {
-  avatar: "/assets/ELEFANT.jpg",
+  avatar: "/assets/logo oficial.png",
   banner: "/assets/banner.jpg",
   title: "Bouticke ELELEFANT3",
   description: "TIENDA DE ROPA",
