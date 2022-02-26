@@ -10,7 +10,7 @@ export const INFORMATION = {
   social: [
     {
       name: "instagram",
-      url: `https://www.instagram.com/elelefant3/`,
+      url: `https://www.instagram.com/elelefant_jewerly/`,
     },
     {
       name: "whatsapp",
